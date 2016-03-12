@@ -1,0 +1,69 @@
+# CVS $Revision: $ $Author: $ -- Thu Nov 26 22:25:37 2015 -- reformated by PCGen PrettyLST v6.05.01
+SOURCELONG:Occult Adventures	SOURCESHORT:OA	SOURCEWEB:http://paizo.com/products/btpy9a0h
+
+#Separated into own file so as to not require UM
+
+# Spell Name			Type			Classes of caster
+Anticipate Peril.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=1
+Battlemind Link.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=4
+Bungle.MOD				TYPE:Psychic	CLASSES:Mesmerist=1
+Compassionate Ally.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=2
+Control Summoned Creature.MOD	TYPE:Psychic	CLASSES:Mesmerist=3
+Curse (Major).MOD			TYPE:Psychic	CLASSES:Mesmerist=4
+Curse of Disgust.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Curse of Magic Negation.MOD	TYPE:Psychic	CLASSES:Mesmerist=3
+Darkvision (Greater).MOD	TYPE:Psychic	CLASSES:Medium=4
+Daze (Mass).MOD			TYPE:Psychic	CLASSES:Medium=3|Mesmerist=4
+Decompose Corpse.MOD		TYPE:Psychic	CLASSES:Medium=1
+Delay Pain.MOD			TYPE:Psychic	CLASSES:Mesmerist=2
+Delusional Pride.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=1
+Diagnose Disease.MOD		TYPE:Psychic	CLASSES:Mesmerist=1
+Disfiguring Touch.MOD		TYPE:Psychic	CLASSES:Mesmerist=2
+Disguise Other.MOD		TYPE:Psychic	CLASSES:Medium=2
+Ear-Piercing Scream.MOD		TYPE:Psychic	CLASSES:Medium=1
+Envious Urge.MOD			TYPE:Psychic	CLASSES:Mesmerist=4
+False Life (Greater).MOD	TYPE:Psychic	CLASSES:Medium,Mesmerist=3
+Forbid Action.MOD			TYPE:Psychic	CLASSES:Mesmerist=1
+Forbid Action (Greater).MOD	TYPE:Psychic	CLASSES:Mesmerist=4
+Forced Quiet.MOD			TYPE:Psychic	CLASSES:Mesmerist=1
+Fumbletongue.MOD			TYPE:Psychic	CLASSES:Mesmerist=1
+Ghostly Disguise.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=2
+Haunting Choir.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Haunting Mists.MOD		TYPE:Psychic	CLASSES:Mesmerist=2
+Howling Agony.MOD			TYPE:Psychic	CLASSES:Mesmerist=2
+Interrogation.MOD			TYPE:Psychic	CLASSES:Mesmerist=1
+Joyful Rapture.MOD		TYPE:Psychic	CLASSES:Mesmerist=5
+Loathsome Veil.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Mad Hallucination.MOD		TYPE:Psychic	CLASSES:Mesmerist=2
+Malicious Spite.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Marionette Possession.MOD	TYPE:Psychic	CLASSES:Mesmerist=3
+Miserable Pity.MOD		TYPE:Psychic	CLASSES:Mesmerist=2
+Murderous Command.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=1
+
+Oppressive Boredom.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=2
+Overwhelming Grief.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Overwhelming Presence.MOD	TYPE:Psychic	CLASSES:Mesmerist=6
+Polypurpose Panacea.MOD		TYPE:Psychic	CLASSES:Mesmerist=1
+Primal Scream.MOD			TYPE:Psychic	CLASSES:Mesmerist=4
+Ray of Sickening.MOD		TYPE:Psychic	CLASSES:Mesmerist=1
+Reckless Infatuation.MOD	TYPE:Psychic	CLASSES:Mesmerist=2
+Remove Sickness.MOD		TYPE:Psychic	CLASSES:Mesmerist=1
+Restore Corpse.MOD		TYPE:Psychic	CLASSES:Medium=1
+Serenity.MOD			TYPE:Psychic	CLASSES:Mesmerist=4
+Share Memory.MOD			TYPE:Psychic	CLASSES:Medium,Mesmerist=2
+Smug Narcissism.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Steal Voice.MOD			TYPE:Psychic	CLASSES:Medium,Mesmerist=2
+Summon Minor Monster.MOD	TYPE:Psychic	CLASSES:Medium=1
+Symbol of Mirroring.MOD		TYPE:Psychic	CLASSES:Mesmerist=2
+Terrible Remorse.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Unadulterated Loathing.MOD	TYPE:Psychic	CLASSES:Mesmerist=2
+Unnatural Lust.MOD		TYPE:Psychic	CLASSES:Mesmerist=1
+Unprepared Combatant.MOD	TYPE:Psychic	CLASSES:Medium,Mesmerist=1
+Utter Contempt.MOD		TYPE:Psychic	CLASSES:Mesmerist=4
+Vengeful Outrage.MOD		TYPE:Psychic	CLASSES:Mesmerist=5
+Vision of Hell.MOD		TYPE:Psychic	CLASSES:Mesmerist=3
+Vocal Alteration.MOD		TYPE:Psychic	CLASSES:Medium,Mesmerist=1
+Wartrain Mount.MOD		TYPE:Psychic	CLASSES:Mesmerist=2
+Waves of Ecstasy.MOD		TYPE:Psychic	CLASSES:Mesmerist=6
+Witness.MOD				TYPE:Psychic	CLASSES:Medium,Mesmerist=3
+Youthful Appearance.MOD		TYPE:Psychic	CLASSES:Medium=1
